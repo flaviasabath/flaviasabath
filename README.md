@@ -35,8 +35,9 @@
 
 ## Reach me on:
 <div align="center">
+  <a href="https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAADctOMcBaIhCkmKWLg9xEj4loIscHoKhf90&keywords=flavia%20sabath&origin=RICH_QUERY_TYPEAHEAD_HISTORY&position=0&searchId=eccec420-ab91-43bc-a154-83c970156531&sid=ARE">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  
+  </a>
   <a href="mailto: flaviassr557@gmail.com">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
